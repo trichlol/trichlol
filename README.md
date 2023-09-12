@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, im the Trichlol!! 👋
 
-<!--
-**trichlol/trichlol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
+Here, I share my work and passion for the world of programming and software development. I invite you to explore my repositories where you can find exciting projects and creative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trichlol&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trichlol&layout=compact&theme=dark"/>
+</div>
+
+![snake gif](https://github.com/trichlol/trichlol/blob/output/github-contribution-grid-snake.svg)
