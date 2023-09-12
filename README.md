@@ -10,4 +10,4 @@ Here, I share my work and passion for the world of programming and software deve
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trichlol&layout=compact&theme=dark"/>
 </div>
 
-![snake gif](https://github.com/trichlol/trichlol/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/trichlol/trichlol/blob/output/github-contribution-grid-snake.svg)
