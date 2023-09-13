@@ -5,10 +5,29 @@
 Here, I share my work and passion for the world of programming and software development. I invite you to explore my repositories where you can find exciting projects and creative solutions.
 
 ##
-<div>
-  <img height="180em" src="https://github-readme-stats-trichlol.vercel.app/api?username=trichlol&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats-trichlol.vercel.app/api/top-langs/?username=trichlol&layout=compact&theme=dark"/>
-</div>
+<picture>
+  <source
+    height="180em" srcset="https://github-readme-stats-trichlol.vercel.app/api?username=trichlol&show_icons=true&theme=github_dark&border_radius=30&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    height="180em" srcset="https://github-readme-stats-trichlol.vercel.app/api/?username=trichlol&show_icons=true&theme=graywhite&border_radius=30&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats-trichlol.vercel.app/api/?username=trichlol&show_icons=true" /> 
+</picture>
+
+<picture>
+  <source
+    height="180em" srcset="https://github-readme-stats-trichlol.vercel.app/api/top-langs/?username=trichlol&layout=compact&theme=github_dark&border_radius=30"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    height="180em" srcset="https://github-readme-stats-trichlol.vercel.app/api/top-langs/?username=trichlol&layout=compact&theme=graywhite&border_radius=30"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats-trichlol.vercel.app/api/?username=trichlol&show_icons=true" />
+</picture>
 
 ##
 
