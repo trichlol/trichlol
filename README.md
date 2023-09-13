@@ -6,8 +6,8 @@ Here, I share my work and passion for the world of programming and software deve
 
 ##
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trichlol&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trichlol&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-trichlol.vercel.app/api?username=trichlol&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-trichlol.vercel.app/api/top-langs/?username=trichlol&layout=compact&theme=dark"/>
 </div>
 
 ##
