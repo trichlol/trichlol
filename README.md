@@ -1,53 +1,59 @@
-### Hi, im the Trichlol!! 👋
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Trich!)](https://git.io/typing-svg)
 
 ##
+<div align="center">
+Here, I share my work and passion for the world of programming and software development. I invite you to explore my repositories where you can find exciting projects and creative solutions.</div>
 
-Here, I share my work and passion for the world of programming and software development. I invite you to explore my repositories where you can find exciting projects and creative solutions.
-
-##
-<picture>
-  <source
-    height="180em" srcset="https://github-readme-stats-trichlol.vercel.app/api?username=trichlol&show_icons=true&theme=github_dark&border_radius=30&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    height="180em" srcset="https://github-readme-stats-trichlol.vercel.app/api/?username=trichlol&show_icons=true&theme=graywhite&border_radius=30&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats-trichlol.vercel.app/api/?username=trichlol&show_icons=true" /> 
-</picture>
-
-<picture>
-  <source
-    height="180em" srcset="https://github-readme-stats-trichlol.vercel.app/api/top-langs/?username=trichlol&layout=compact&theme=github_dark&border_radius=30"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    height="180em" srcset="https://github-readme-stats-trichlol.vercel.app/api/top-langs/?username=trichlol&layout=compact&theme=graywhite&border_radius=30"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats-trichlol.vercel.app/api/?username=trichlol&show_icons=true" />
-</picture>
 
 ##
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48px"></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Python" width="48px"></a> 
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48px"></a>  
-  <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48px"></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48px"></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" width="48px"></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48px"></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48px"></a>
-  <a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="48px"></a>
-  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48px"></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48px"></a>
-  <a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="48px"></a>
-  <a href="https://www.vim.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="48px"></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="48px"></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="48px"></a>
+<div align="center">
+  <picture>
+    <source
+      height="180em" srcset="https://github-readme-stats-trichlol.vercel.app/api?username=trichlol&show_icons=true&theme=github_dark&border_radius=30&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      height="180em" srcset="https://github-readme-stats-trichlol.vercel.app/api/?username=trichlol&show_icons=true&theme=graywhite&border_radius=30&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats-trichlol.vercel.app/api/?username=trichlol&show_icons=true" /> 
+  </picture>
   
-</p>
+  <picture>
+    <source
+      height="180em" srcset="https://github-readme-stats-trichlol.vercel.app/api/top-langs/?username=trichlol&layout=compact&theme=github_dark&border_radius=30"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      height="180em" srcset="https://github-readme-stats-trichlol.vercel.app/api/top-langs/?username=trichlol&layout=compact&theme=graywhite&border_radius=30"
+      media="(prefers-color-scheme: light)"
+    />
+    <img src="https://github-readme-stats-trichlol.vercel.app/api/?username=trichlol&show_icons=true" />
+</picture>
+</div>
+
+##
+
+<div>
+  <p align="center">
+    <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48px"></a>
+    <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Python" width="48px"></a> 
+    <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48px"></a>  
+    <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48px"></a>  
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48px"></a>
+    <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" width="48px"></a>
+    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48px"></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48px"></a>
+    <a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="48px"></a>
+    <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48px"></a>
+    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48px"></a>
+    <a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="48px"></a>
+    <a href="https://www.vim.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="48px"></a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="48px"></a>
+    <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="48px"></a>
+  </p>
+</div>
 
 ##
