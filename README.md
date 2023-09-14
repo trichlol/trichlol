@@ -57,3 +57,8 @@ Here, I share my work and passion for the world of programming and software deve
 </div>
 
 ##
+<div align="center">
+  <img src="https://github.com/trichlol/trichlol/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
+##
