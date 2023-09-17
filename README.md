@@ -1,6 +1,10 @@
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A020F0&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Trich!)](https://git.io/typing-svg)
+<div align="center">
+  <picture>
+  <img height="40em" src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Trich!" media="(prefers-color-scheme: dark)"/> 
+  
+  <img height="40em" src="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Trich!" media="(prefers-color-scheme: light)"/> 
+  </picture>
+</div>
 
 ##
 <div align="center">
