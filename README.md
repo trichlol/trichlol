@@ -4,7 +4,7 @@
     media="(prefers-color-scheme: dark)"
   />
   <img
-    src="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&width=1000&lines=Hello,+I%27m+Trich!"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=303030&width=435&lines=Hello%2C+I'm+Trich!"
     media="(prefers-color-scheme: light)"
   />
 </picture>
