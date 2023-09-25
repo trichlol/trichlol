@@ -1,11 +1,11 @@
 <picture>
   <source
     srcset="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Trich!" media="(prefers-color-scheme: light)"
-    media="(prefers-color-scheme: dark)" height="180em" 
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Trich!" media="(prefers-color-scheme: dark)"
-    media="(prefers-color-scheme: light)" height="180em" 
+    media="(prefers-color-scheme: light)"
   />
 </picture>
 
