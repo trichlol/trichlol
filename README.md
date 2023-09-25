@@ -3,7 +3,7 @@
     src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&width=1000&lines=Hello,+I'm+Trich!"media="(prefers-color-scheme: dark)"
   />
   <img
-    src=https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&width=1000&lines=Hello,+I'm+Trich!"media="(prefers-color-scheme: light)"
+    src=https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&width=1000&lines=Hello,+I'm+Trich!"media="(prefers-color-scheme: light)"
   />
 </picture>
 
